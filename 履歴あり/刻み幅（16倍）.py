@@ -4,7 +4,7 @@
 #離散版拡散ロジスティック方程式
 
 from initialdistribution import *
-from otherfanction import *
+from otherfunction import *
 import math
 import copy
 import numpy as np
